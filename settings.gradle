@@ -1,0 +1,3 @@
+include ':MuniryOnboarding'
+include ':app'
+rootProject.name = "ModernOnBoarding"
